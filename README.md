@@ -222,4 +222,4 @@ Para suporte e dúvidas:
 
 ---
 
-**Desenvolvido com ❤️ por Vyctoria Karina.
+**Desenvolvido com ❤️ por Vyctoria Karina.**
